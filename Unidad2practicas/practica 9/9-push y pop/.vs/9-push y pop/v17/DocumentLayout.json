@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 9\\9-push y pop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC2A7F-A0F4-4268-B653-E12EA6E19D49}|9-push y pop.vcxproj|C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 9\\9-push y pop\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99AC2A7F-A0F4-4268-B653-E12EA6E19D49}|9-push y pop.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 9\\9-push y pop\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 9\\9-push y pop\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T04:00:04.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

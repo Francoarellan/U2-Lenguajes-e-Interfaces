@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 4.1\\4.1 mayormenor o igual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A4F5A6-CCAB-4C6A-9254-E8BB940F9711}|4.1 mayormenor o igual.vcxproj|C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 4.1\\4.1 mayormenor o igual\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58A4F5A6-CCAB-4C6A-9254-E8BB940F9711}|4.1 mayormenor o igual.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 4.1\\4.1 mayormenor o igual\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 4.1\\4.1 mayormenor o igual\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T02:40:44.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

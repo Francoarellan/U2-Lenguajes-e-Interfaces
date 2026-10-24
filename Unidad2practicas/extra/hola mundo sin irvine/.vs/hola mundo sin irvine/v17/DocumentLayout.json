@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\hola mundo sin irvine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221E6D32-92D0-476B-BC54-000A1DFD1787}|hola mundo sin irvine.vcxproj|C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\hola mundo sin irvine\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{221E6D32-92D0-476B-BC54-000A1DFD1787}|hola mundo sin irvine.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\hola mundo sin irvine\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\hola mundo sin irvine\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:23:13.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

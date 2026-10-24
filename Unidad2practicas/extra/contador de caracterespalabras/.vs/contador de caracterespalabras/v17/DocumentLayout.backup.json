@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\contador de caracterespalabras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D71886-5651-43F3-9471-04364E0D24DA}|contador de caracterespalabras.vcxproj|C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\contador de caracterespalabras\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86D71886-5651-43F3-9471-04364E0D24DA}|contador de caracterespalabras.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\contador de caracterespalabras\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\extra\\contador de caracterespalabras\\main.asm*",
+              "RelativeToolTip": "main.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T05:19:47.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

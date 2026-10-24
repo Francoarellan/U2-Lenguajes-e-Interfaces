@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 14\\14-captura y almacenamiento de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4A9E6F-E006-43C2-91E2-883486D95C51}|14-captura y almacenamiento de datos.vcxproj|C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 14\\14-captura y almacenamiento de datos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA4A9E6F-E006-43C2-91E2-883486D95C51}|14-captura y almacenamiento de datos.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 14\\14-captura y almacenamiento de datos\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Desktop\\Unidad2practicas\\practica 14\\14-captura y almacenamiento de datos\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T03:22:58.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
